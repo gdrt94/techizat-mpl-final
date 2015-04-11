@@ -1,0 +1,17 @@
+c:\users\gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\bin\Debug\Tehcizat.exe.config
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\bin\Debug\Tehcizat.exe
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\bin\Debug\Tehcizat.pdb
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.csprojResolveAssemblyReference.cache
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form1.resources
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Properties.Resources.resources
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.csproj.GenerateResource.Cache
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.exe
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.pdb
+C:\Users\Gudrat\Documents\Visual Studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form4.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form10.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form11.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form9.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form2.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form6.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form8.resources
+C:\Users\Gudrat\documents\visual studio 2013\Projects\Tehcizat\Tehcizat\obj\Debug\Tehcizat.Form5.resources
